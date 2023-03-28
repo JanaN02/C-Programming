@@ -11,7 +11,7 @@ int main()
 	int cho;
 	printf("\n\n\t\t\t\t\tVarious Calculator");
 	
-	printf("\n\n\t\t\tDeveloped By : Jana  /  Guhan - CSE Department");
+	
 	printf("\n\n\n\t\tMENU : ");
 	printf("\n\n\t\t\t1,Normal Calculator");
 	printf("\n\t\t\t2,Flames Calculator");
