@@ -3,7 +3,12 @@
 
 <h3>C Programming Projects:</h3>
     
-     
+     <ul type="square">
+           <li>Shop Billing Mini Project</li>
+           <li>Varius Calculator Model App</li>
+           <li>Flames Calculator</li>
+           
+       </ul>
          
 
 <h5 align="center">Any enquiry contact me</h5>
