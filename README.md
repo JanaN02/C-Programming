@@ -3,12 +3,9 @@
 
 <h3>C Programming Projects:</h3>
     
-     <ul type="square">
-           <li>Shop Billing Mini Project</li>
-           <li>Varius Calculator Model App</li>
-           <li>Flames Calculator</li>
-           
-       </ul>
+     1,Shop Billing Mini Project
+     2,Varius Calculator Model App
+     3,Flames Calculator
          
 
 <h5 align="center">Any enquiry contact me</h5>
