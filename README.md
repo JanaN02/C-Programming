@@ -1,10 +1,10 @@
 
 <tt align="center" width="20px">Hi All!</tt>
 
-<h3>C Programming Projects:</h3>
-1,Shop Billing Mini Project
-2,Varius Calculator Model App
-3,Flames Calculator
+<h3>C Programming Projects:</h3><br><br>
+1,Shop Billing Mini Project<br>
+2,Varius Calculator Model App<br>
+3,Flames Calculator<br>
          
 
 <h5 align="center">Any enquiry contact me</h5>
