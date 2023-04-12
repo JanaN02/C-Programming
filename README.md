@@ -1,7 +1,7 @@
 
 <tt align="center" width="20px">Hi All!</tt>
 
-<h3>C Programming Projects:</h3><br><br>
+<h3>C Programming Projects:</h3><br>
 1,Shop Billing Mini Project<br>
 2,Varius Calculator Model App<br>
 3,Flames Calculator<br>
