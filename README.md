@@ -1,2 +1,2 @@
-# C-Programming
-<h1>Hi All!</h1>
+
+<h1 align="center" width="20px">Hi All!</h1>
