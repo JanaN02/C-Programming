@@ -3,12 +3,14 @@
 
 <h3>C Programming Projects:</h3>
     
-     <ul type="square">  <li>Hotel Billing System</li>
-            > The program is a simple shop billing system program. A very basic simple concept, I have using for this mini project.         
+     <ul type="square">  
+             <li>Hotel Billing System</li>
+              <tt>The program is a simple shop billing system program. A very basic simple concept, I have using for this mini project.</tt>         
        <li>Varius Calculator Model App</li>
-            > The program is a model app concept program.   
+              <tt>> The program is a model app concept program.</tt>   
        <li>Flames Calculator</li>
-            > The program is a flames calculator concept program.</ul>
+              <tt>> The program is a flames calculator concept program.</tt>
+      </ul>
          
 
 <h5 align="center">Any enquiry contact me</h5>
