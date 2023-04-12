@@ -3,12 +3,12 @@
 
 <h3>C Programming Projects:</h3>
     
-       <h6>Hotel Billing System
-            > The program is a simple shop billing system program. A very basic simple concept, I have using for this mini project.         
+       Hotel Billing System
+             The program is a simple shop billing system program. A very basic simple concept, I have using for this mini project.         
        Varius Calculator Model App
             > The program is a model app concept program.   
        Flames Calculator
-            > The program is a flames calculator concept program.  </h6> 
+             The program is a flames calculator concept program.
          
 
 <h5 align="center">Any enquiry contact me</h5>
