@@ -9,4 +9,4 @@
           </ol>
 </pre>
 <h5 align="center">Any enquiry contact me</h5>
-<tt align="center">Email id : njana8582@gmail.com</tt>
+<i align="center">Email id : njana8582@gmail.com</i>
