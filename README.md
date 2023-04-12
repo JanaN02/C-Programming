@@ -2,14 +2,14 @@
 <tt align="center" width="20px">Hi All!</tt>
 
 <h3>C Programming Projects:</h3>
-<pre>    <ol type="square">
-             <li>Hotel Billing System</li>
-                  <p> > The program is a simple shop billing system program. A very basic simple concept, I have using for this mini project.</p>             
-             <li>Varius Calculator Model App</li>
-                  <p> > The program is a model app concept program.</p>    
-             <li>Flames Calculator</li>
-                  <p> > The program is a flames calculator concept program.</p>    
-          </ol>
+<pre>    
+       Hotel Billing System
+            > The program is a simple shop billing system program. A very basic simple concept, I have using for this mini project.         
+       Varius Calculator Model App
+            > The program is a model app concept program.   
+       Flames Calculator
+            > The program is a flames calculator concept program.   
+         
 </pre>
 <h5 align="center">Any enquiry contact me</h5>
                Email id : njana85@gmail.com 
